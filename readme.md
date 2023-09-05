@@ -6,5 +6,5 @@ Para rodar o projeto no seu dispositivo digite
 
 
 ```
-baixar arquivo
+node app.js
 ```
